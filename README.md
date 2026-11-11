@@ -1,7 +1,6 @@
 # Actividad 8 Algoritmos Voraces
 
 Estudiante: Anthony Miguel Angel Flores Pinto  
-Nivel: Cuarto semestre de Ingenieria de Software
 
 Este proyecto contiene dos soluciones en C++17 que aplican algoritmos voraces. El programa permite ingresar los datos desde consola y elegir el problema desde un menu principal.
 
